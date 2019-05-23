@@ -1,9 +1,9 @@
 # Lottie-Example-Swift
-## This ia Cocopods  tutorial
+## This is a Cocopods  tutorial
 ![May-20-2019 16-51-56](https://user-images.githubusercontent.com/2945947/58109761-341e9b80-7bbc-11e9-805d-0782093c411f.gif)
 #### 1. The resource I am using
 [airbnb lottie-ios] https://github.com/airbnb/lottie-ios#dynamic-animation-properties
-
+ 
 #### 2. Install CocoaPods
 As usual, make sure you have installed the service you are going to use. 
 Here I suggest check the latest guide from CocoaPods https://guides.cocoapods.org/ before you go through the next step.
