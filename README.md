@@ -5,6 +5,8 @@
 [airbnb lottie-ios] https://github.com/airbnb/lottie-ios#dynamic-animation-properties
 
 #### 2. Install CocoaPods
+As usual, make sure you have installed the service you are going to use. 
+Here I suggest check the latest guide from CocoaPods https://guides.cocoapods.org/ before you go through the next step.
 
 #### 3. How to use CocoaPods
 * create a Xcode project but don't work on it right away
