@@ -44,4 +44,4 @@ pod install
 
 #### 4. How to use Lottie CocoaPod
 From now on, we can use the information from [airbnb github page](https://github.com/airbnb/lottie-ios#dynamic-animation-properties) to use the animation feature.
-In this project, I downloaded free lottie animation file 30-brghtness.json from [LottieFiles.com](https://lottiefiles.com) and added simple code in the viewDidLoad() function of ViewController.swift. And **DONE!** It will save you tons of time to do the fancy work. Love it? Try it by yourself then.
+In this project, I downloaded free lottie animation file 30-brghtness.json from [LottieFiles.com](https://lottiefiles.com) and added simple code in the viewDidLoad() function of ViewController.swift. And **DONE!** It will save your tons of time to do the fancy work. Love it? Try it by yourself then.
